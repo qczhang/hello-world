@@ -1,4 +1,5 @@
 hello-world
 ===========
-
-very first test use of github
+Greetings, earthlings! 
+This is the first message from the Others!
+Keep on listening; you will hear more.
